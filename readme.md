@@ -1,6 +1,6 @@
 # Short and Swift samples
 
-This reppository contains the source code used in short and swift series
+This reppository contains the source code used in the [short and swift video series](https://www.youtube.com/watch?v=2CwybH2rWZ4&list=PLPuaqQB3lRflZysa-IPMArT0q_LTxXQ2z)
 
 ## How to run on windows
 
