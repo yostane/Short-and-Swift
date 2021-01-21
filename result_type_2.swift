@@ -18,4 +18,7 @@ func doSometing(thatThrows: Bool?) -> Result<String, CustomError> {
 func runMain(){
     let message = doSometing(thatThrows: false)
     print(message)
+    if case .success(let val) = message{
+        print(val)
+    }
 }
